@@ -1,0 +1,17 @@
+DIA DE SORTE - ENGROSSANDO O TALO V1
+
+1. Extraia o ZIP.
+2. Crie um repositório novo no GitHub.
+3. Suba todos os arquivos e pastas.
+4. Vá em Actions.
+5. Abra "Compilar APK Dia de Sorte Talo V1".
+6. Clique em Run workflow.
+7. Ao terminar, baixe o artifact:
+   DIA-DE-SORTE-TALO-V1-APK
+
+No Android:
+- toque em IMPORTAR HISTÓRICO TXT;
+- selecione o arquivo de resultados;
+- toque em GERAR JOGO;
+- o motor Python executará dentro do app;
+- opcionalmente gere o PDF.
